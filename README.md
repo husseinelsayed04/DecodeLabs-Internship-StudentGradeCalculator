@@ -12,7 +12,7 @@ The project is designed using Object-Oriented Programming (OOP) principles.
 - Enter marks for multiple subjects
 - Calculate total marks
 - Calculate average percentage
-- Assign grades based on performance
+- Assign grades based on percentage
 - Determine PASS / FAIL status
 - Input validation (marks between 0–100)
 
