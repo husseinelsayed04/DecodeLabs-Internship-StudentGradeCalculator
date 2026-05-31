@@ -32,6 +32,7 @@ The project is designed using Object-Oriented Programming (OOP) principles.
 ## 🏗 Project Structure
 
 DecodeLabs_java_p2
+
 ├── src
 │ ├── Main.java
 │ ├── Student.java
