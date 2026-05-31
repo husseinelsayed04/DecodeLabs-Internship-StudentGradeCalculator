@@ -30,11 +30,13 @@ The project is designed using Object-Oriented Programming (OOP) principles.
 ---
 
 ## 🏗 Project Structure
+
 DecodeLabs_java_p2
 ├── src
 │ ├── Main.java
 │ ├── Student.java
 │ ├── GradeCalculator.java
+
 
 ## 📊 Sample Output
 <img width="801" height="437" alt="image" src="https://github.com/user-attachments/assets/ca31501c-71dc-4d78-9042-cdc230d079dd" />
