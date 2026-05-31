@@ -1,4 +1,4 @@
-# 🎓 Student Grade Calculator (Java OOP Project)
+# 🎓 Student Grade Calculator (Java Project)
 
 ## 📌 Project Description
 This is a simple Java console-based application that calculates a student's total marks, average percentage, grade, and pass/fail status based on multiple subjects.
